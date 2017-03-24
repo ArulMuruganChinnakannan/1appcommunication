@@ -1,1 +1,1 @@
-web: node-inspector index.js
+web: node index.js
